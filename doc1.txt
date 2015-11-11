@@ -1,2 +1,3 @@
 essai de git
 1) Thierry écrit un truc
+2) Thierry ajoute un truc
