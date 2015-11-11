@@ -1,4 +1,5 @@
 essai de git
-1) Thierry écrit un truc
+1) Thierry Ã©crit un truc
 2) Thierry ajoute un truc
 3) Thierry ajoute un truc depuis son PC
+4) Thierry ajoute un truc depsui github
