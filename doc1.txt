@@ -1,5 +1,6 @@
-essai de git
+﻿essai de git
 1) Thierry écrit un truc
 2) Thierry ajoute un truc
 3) Thierry ajoute un truc depuis son PC
 4) Thierry ajoute un truc depuis github
+5) le cinquième element
